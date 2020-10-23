@@ -1,2 +1,9 @@
 # Simple-Sockets-RAT
-RAT in python sockets
+A very simple RAT in made python sockets.
+
+#Features
+
+-Reverse Shell
+-Download
+
+**Please help by forking**
